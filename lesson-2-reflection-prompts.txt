@@ -18,12 +18,18 @@ Adding the files of the logical change to staging area and then commit
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-When you would make some experiments o add new features. Also for bugfixing 
+When you would make some experiments o add new features. Also for bugfixing
 
 How do the diagrams help you visualize the branch structure?
 
+Understanding the changes we have made
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+The result is a new branch with all the commits and a new version of the files
+with the content of the two branches. Because the new branch have all the
+previous commits 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
